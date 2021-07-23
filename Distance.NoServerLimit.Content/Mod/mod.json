@@ -6,10 +6,9 @@
 	"Porter": "Reherc",
 	"PorterContact": "Github: @REHERC",
 	"ModuleFileName": "Distance.NoServerLimit.dll",
-	"Priority": 10,
-	"SkipLoad": false,
-	"Dependencies": [],
 	"RequiredGSLs": [
-	"com.github.reherc/Centrifuge.Distance"
-	]
+		"com.github.reherc/Centrifuge.Distance"
+	],
+	"SkipLoad": false,
+	"Priority": 10
 }
